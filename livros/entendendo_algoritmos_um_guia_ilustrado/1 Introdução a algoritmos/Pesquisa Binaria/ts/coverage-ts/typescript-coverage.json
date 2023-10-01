@@ -1,0 +1,233 @@
+{
+  "fileCounts": {},
+  "anys": [
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 0,
+      "character": 76,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 1,
+      "character": 7,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 1,
+      "character": 20,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 2,
+      "character": 36,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 4,
+      "character": 16,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/pesquisa-binaria.ts",
+      "line": 9,
+      "character": 52,
+      "text": "fim",
+      "kind": 1
+    },
+    {
+      "file": "src/index.ts",
+      "line": 4,
+      "character": 6,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/index.ts",
+      "line": 5,
+      "character": 52,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/index.ts",
+      "line": 6,
+      "character": 52,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/index.ts",
+      "line": 6,
+      "character": 90,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 7,
+      "character": 4,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 7,
+      "character": 32,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 12,
+      "character": 14,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 13,
+      "character": 8,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 13,
+      "character": 15,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 13,
+      "character": 26,
+      "text": "to",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 13,
+      "character": 29,
+      "text": "equal",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 17,
+      "character": 14,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 18,
+      "character": 8,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 18,
+      "character": 15,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 18,
+      "character": 26,
+      "text": "to",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 18,
+      "character": 29,
+      "text": "equal",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 22,
+      "character": 14,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 24,
+      "character": 8,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 24,
+      "character": 21,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 24,
+      "character": 33,
+      "text": "to",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 24,
+      "character": 36,
+      "text": "equal",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 28,
+      "character": 14,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 30,
+      "character": 8,
+      "text": "expect",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 30,
+      "character": 21,
+      "text": "resultado",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 30,
+      "character": 33,
+      "text": "to",
+      "kind": 1
+    },
+    {
+      "file": "src/test/pesquisa-binaria-recursiva.test.ts",
+      "line": 30,
+      "character": 36,
+      "text": "equal",
+      "kind": 1
+    }
+  ],
+  "percentage": 68.93203883495146,
+  "total": 103,
+  "covered": 71,
+  "uncovered": 32
+}
